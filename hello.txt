@@ -1,6 +1,4 @@
 hello
 これをgithubにアップしてみます。
 
-2回目のアップ
-
-ab
+hi hey ho
